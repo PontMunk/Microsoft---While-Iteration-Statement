@@ -21,7 +21,7 @@ namespace Microsoft___While_Iteration_Statement
         private static bool MainMenu()
         {
             Console.Clear();
-            Console.WriteLine("Choose an option:");
+            Console.WriteLine("Choose an option förfan!:");
             Console.WriteLine("1) Print Numbers");
             Console.WriteLine("2) Guessing Game");
             Console.WriteLine("3) Exit");
